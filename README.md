@@ -17,3 +17,7 @@ Task 04 - CONCLUSION for Analusis And Visualize entiment patterns :
 We analyzed social media sentiment data and identified patterns in public opinion.
 Sentiment distribution shows overall public mood , Topic-based analysis reveals brand perception,
 Word frequency highlights commonly discussed issue
+
+Task 05- CONCLUSION for Analyze Traffic Accident Data : 
+The analysis reveals that: Time of day significantly affects accident frequency, Weather conditions impact safety ,
+Geographic hotspots indicate risky areas
