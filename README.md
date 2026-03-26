@@ -9,7 +9,11 @@ Gender and passenger class strongly influenced survival.
 Wealthier passengers had better chances of survival.
 Age distribution showed most passengers were young adults.
 
-Task 04 - CONCLUSION for Analusis And Visualize entiment patterns
+Task 03 - # conclusion for Decision Tree Classifier : 
+Using the dataset , we can built a decision tree classifier thet predicts 
+whether a customer will purchase a product based on data. 
+
+Task 04 - CONCLUSION for Analusis And Visualize entiment patterns : 
 We analyzed social media sentiment data and identified patterns in public opinion.
 Sentiment distribution shows overall public mood , Topic-based analysis reveals brand perception,
 Word frequency highlights commonly discussed issue
